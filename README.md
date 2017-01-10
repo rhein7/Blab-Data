@@ -1,2 +1,3 @@
 # Blab-Data
-School Project
+School Project (VB)
+Some kind of database for laboratory things!
