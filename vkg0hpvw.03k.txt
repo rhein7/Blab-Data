@@ -1,0 +1,99 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   BLab-Data.sln
+#	new file:   Blab-Data/App.config
+#	new file:   Blab-Data/Artikeldatenbank.Designer.vb
+#	new file:   Blab-Data/Artikeldatenbank.resx
+#	new file:   Blab-Data/Artikeldatenbank.vb
+#	new file:   Blab-Data/Artikelliste.Designer.vb
+#	new file:   Blab-Data/Artikelliste.resx
+#	new file:   Blab-Data/Artikelliste.vb
+#	new file:   Blab-Data/BLab-Data.vbproj
+#	new file:   Blab-Data/Form1.Designer.vb
+#	new file:   Blab-Data/Form1.resx
+#	new file:   Blab-Data/Form1.vb
+#	new file:   Blab-Data/Gruppendatenbank.Designer.vb
+#	new file:   Blab-Data/Gruppendatenbank.resx
+#	new file:   Blab-Data/Gruppendatenbank.vb
+#	new file:   Blab-Data/Gruppenliste.Designer.vb
+#	new file:   Blab-Data/Gruppenliste.resx
+#	new file:   Blab-Data/Gruppenliste.vb
+#	new file:   Blab-Data/My Project/Application.Designer.vb
+#	new file:   Blab-Data/My Project/Application.myapp
+#	new file:   Blab-Data/My Project/AssemblyInfo.vb
+#	new file:   Blab-Data/My Project/Resources.Designer.vb
+#	new file:   Blab-Data/My Project/Resources.resx
+#	new file:   Blab-Data/My Project/Settings.Designer.vb
+#	new file:   Blab-Data/My Project/Settings.settings
+#	new file:   Blab-Data/Resources/1. Schritt.PNG
+#	new file:   Blab-Data/Resources/2. Schritt g.PNG
+#	new file:   Blab-Data/Resources/2. Schritt.PNG
+#	new file:   Blab-Data/Resources/3. Schritt g.PNG
+#	new file:   Blab-Data/Resources/3. Schritt.PNG
+#	new file:   Blab-Data/Resources/Chemikalie.PNG
+#	new file:   Blab-Data/Resources/Excel.jpg
+#	new file:   Blab-Data/Resources/ausleihen.PNG
+#	new file:   Blab-Data/Resources/auswahl.PNG
+#	new file:   Blab-Data/Resources/bottom.PNG
+#	new file:   Blab-Data/Resources/fuss.PNG
+#	new file:   Blab-Data/Resources/fuss1.PNG
+#	new file:   Blab-Data/Resources/gruppenkarte.PNG
+#	new file:   "Blab-Data/Resources/r\303\274cknahme.PNG"
+#	new file:   Blab-Data/bin/Debug/1. Schritt g.PNG
+#	new file:   Blab-Data/bin/Debug/1. Schritt.PNG
+#	new file:   Blab-Data/bin/Debug/2. Schritt g.PNG
+#	new file:   Blab-Data/bin/Debug/2. Schritt.PNG
+#	new file:   Blab-Data/bin/Debug/210.txt
+#	new file:   Blab-Data/bin/Debug/211.jpg
+#	new file:   Blab-Data/bin/Debug/211.txt
+#	new file:   Blab-Data/bin/Debug/3. Schritt g.PNG
+#	new file:   Blab-Data/bin/Debug/3. Schritt.PNG
+#	new file:   Blab-Data/bin/Debug/837.txt
+#	new file:   Blab-Data/bin/Debug/904.txt
+#	new file:   Blab-Data/bin/Debug/905.txt
+#	new file:   Blab-Data/bin/Debug/906.txt
+#	new file:   Blab-Data/bin/Debug/907.txt
+#	new file:   Blab-Data/bin/Debug/908.txt
+#	new file:   Blab-Data/bin/Debug/910.txt
+#	new file:   Blab-Data/bin/Debug/91025579.txt
+#	new file:   Blab-Data/bin/Debug/911.txt
+#	new file:   Blab-Data/bin/Debug/991.txt
+#	new file:   Blab-Data/bin/Debug/Auswahl.jpg
+#	new file:   Blab-Data/bin/Debug/BLab-Data.exe
+#	new file:   Blab-Data/bin/Debug/BLab-Data.exe.config
+#	new file:   Blab-Data/bin/Debug/BLab-Data.pdb
+#	new file:   Blab-Data/bin/Debug/BLab-Data.vshost.exe
+#	new file:   Blab-Data/bin/Debug/BLab-Data.vshost.exe.config
+#	new file:   Blab-Data/bin/Debug/BLab-Data.vshost.exe.manifest
+#	new file:   Blab-Data/bin/Debug/BLab-Data.xml
+#	new file:   Blab-Data/bin/Debug/append.txt
+#	new file:   Blab-Data/bin/Debug/ausleihen g.PNG
+#	new file:   Blab-Data/bin/Debug/chems.txt
+#	new file:   Blab-Data/bin/Debug/groups.txt
+#	new file:   Blab-Data/bin/Debug/om.exe
+#	new file:   "Blab-Data/bin/Debug/r\303\274cknahme g.PNG"
+#	new file:   Blab-Data/logo_64.ico
+#	new file:   Blab-Data/obj/Debug/BLab-Data.exe
+#	new file:   Blab-Data/obj/Debug/BLab-Data.pdb
+#	new file:   Blab-Data/obj/Debug/BLab-Data.vbproj.FileListAbsolute.txt
+#	new file:   Blab-Data/obj/Debug/BLab-Data.vbproj.GenerateResource.Cache
+#	new file:   Blab-Data/obj/Debug/BLab-Data.vbproj.ResolveComReference.cache
+#	new file:   Blab-Data/obj/Debug/BLab-Data.vbprojResolveAssemblyReference.cache
+#	new file:   Blab-Data/obj/Debug/BLab-Data.xml
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Artikeldatenbank.resources
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Artikelliste.resources
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Form1.resources
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Gruppendatenbank.resources
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Gruppenliste.resources
+#	new file:   Blab-Data/obj/Debug/BLab_Data.Resources.resources
+#	new file:   Blab-Data/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   Blab-Data/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   Blab-Data/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+#
+
