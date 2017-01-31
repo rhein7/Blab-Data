@@ -1,3 +1,4 @@
 # Blab-Data
-School Project (VB)
-Some kind of database for laboratory things!
+School Project (Visual Basic, created in Visual-Studio-2015)
+
+I created this kind of database to organize the laboratory equipment of my school.
